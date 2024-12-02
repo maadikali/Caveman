@@ -1,7 +1,6 @@
 # Caveman Game
 
-**Caveman** is a 2D platformer game developed using **C++** and the **SFML** (Simple and Fast Multimedia Library). It features a cave-themed environment where players control
-the main character to navigate obstacles and challenges. This project demonstrates foundational game development skills, including character animation, collision detection, and map design.
+**Caveman** is a 2D platformer game developed using **C++** and the **SFML** (Simple and Fast Multimedia Library). It features a cave-themed environment where players control the main character to navigate obstacles and challenges. This project demonstrates foundational game development skills, including character animation, collision detection, and map design.
 
 ## Features
 - Developed using **SFML**, a multimedia library.
@@ -11,6 +10,7 @@ the main character to navigate obstacles and challenges. This project demonstrat
 
 ## Screenshots
 Here are some snapshots from the game:
+
 ![1](https://github.com/user-attachments/assets/5e31e0c8-51a7-412c-a87a-a7d33cc4904d)
 
 ![2](https://github.com/user-attachments/assets/1bbd46f7-6c26-4e1e-a05f-193c04888a63)
